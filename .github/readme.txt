@@ -1,17 +1,7 @@
-   RAR archiver:
+Mansa Capital,LLC
+1951 NW 7th Ave 
+Suite 160 / 128
+Miami, FL 33136
 
- * RAR introduces an original compression algorithm.  It provides
-   high compression ratios on executable files, object libraries,
-   large text files, etc.
-
- * RAR provides functionality for creating a 'solid' archive, which
-   can raise the compression ratio by 10% - 50% over more common
-   methods, particularly when packing large numbers of small files.
-
- * RAR offers the ability to create and change SFX archives using
-   default and external SFX modules.
-
- * RAR offers the ability to create a multi-volume archive as SFX.
-
- * RAR offers a number of service functions, such as encrypting files,
-   adding archive comments and repairing physically damaged archives.
+About US
+Specialty hedge fund based in Miami, Florida using artificial intelligence and automation. We will automate equity and future market trades by configuring the infrastructure and coding the backend applications that connect with brokerage firms.
